@@ -7,12 +7,19 @@
 проект является локальным, поэтому стоит loadbalancer metallb
 
 Сервисы которые используются в проекте:
+
 а. nginx
+
 b. nginx и wordpress
+
 c. nginx и phpmyadmin
+
 d. ftps
+
 e. mysql
+
 f. influxdb
+
 g. grafana
 
 Каждый под стоит на Linux Alpine
